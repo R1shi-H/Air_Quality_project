@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\aqi_crap.h(124,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\aqi_crap.h(128,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\aqi_crap.h(132,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\aqi_crap.h(136,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\aqi_crap.h(140,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(135,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(136,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(137,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(215,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(216,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(250,28): warning C4018: '<': signed/unsigned mismatch
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(354,28): warning C4018: '<': signed/unsigned mismatch
+  data_proc_real.vcxproj -> C:\dev\crappy-science-project\data_proc\data_proc_real\Debug\data_proc_real.exe

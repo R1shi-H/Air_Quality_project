@@ -1,0 +1,1 @@
+g++ -o data_proc.exe *.cpp

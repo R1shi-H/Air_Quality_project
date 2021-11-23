@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\aqi_crap.h(124,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\aqi_crap.h(128,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\aqi_crap.h(132,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\aqi_crap.h(136,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\aqi_crap.h(140,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(136,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(137,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(138,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(216,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(217,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(251,28): warning C4018: '<': signed/unsigned mismatch
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(355,28): warning C4018: '<': signed/unsigned mismatch
+C:\dev\crappy-science-project\data_proc\data_proc_real\data_proc_real\main.cpp(488,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  153 of 1437 functions (10.6%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    73 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  data_proc_real.vcxproj -> C:\dev\crappy-science-project\data_proc\data_proc_real\Release\data_proc_real.exe
